@@ -1,0 +1,10 @@
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/.DS_Store
+
+
+**/data/
+**/replays/
+
+*/test.py
+*/file.txt
