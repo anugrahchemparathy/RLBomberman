@@ -1,6 +1,15 @@
-An in progress clean up for my 6.8200 (Sensorimotor Learning) final project: [Bomberman](https://en.wikipedia.org/wiki/Bomberman)-playing deep RL agents.
+Hello! I am currently in the progress of cleaning up and recreating this project. I've been rewriting the RL implementations from scratch with my own code runner (seems like a good exercise), and retraining everything and I'll update the repository once it's ready.
 
-A sample video showing a partially trained policy rollout of the PPO trained from scratch can be found [here](https://www.youtube.com/shorts/jVk0F8xhEyQ).
+In the meantime, here's a brief summary of the repository:
+
+The goal of this project is to train some deep-RL policies to play the game of [Bomberman](https://en.wikipedia.org/wiki/Bomberman), which I really liked playing as a kid.
+
+<p align="center">
+  <img src="images/bomberman_sample.png" height="400" />
+</p>
+
+
+A sample video showing a partially trained policy rollout of one of my PPO-agents trained from scratch can be found [here](https://www.youtube.com/shorts/jVk0F8xhEyQ) 
 
 We use the [easyrl](https://github.com/taochenshh/easyrl) PPO implementation.
 
